@@ -8,4 +8,5 @@ Reuters-21578 dataset is used.
 * (type3 query) w∗
 
 usage: python query.py \<query type\> \<query\>
+
 for example: python process.py 1 "people AND car"
